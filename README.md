@@ -12,7 +12,7 @@
 
 ### 2. Cybersecurity Awareness Workshop
 - Created phishing simulation scenarios for training
-- [Presentation Slides]
+
 
 ### 3. Power BI Risk Dashboard
 - Interactive dashboard analyzing risk ratings across vendors
