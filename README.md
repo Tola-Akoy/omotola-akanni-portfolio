@@ -12,6 +12,7 @@
 
 ### 2. Cybersecurity Awareness Workshop
 - Created phishing simulation scenarios for training
+- Be cyber safe.pptx
 
 
 ### 3. Power BI Risk Dashboard
