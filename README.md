@@ -14,8 +14,10 @@
 - Created phishing simulation scenarios for training
 - Be cyber safe.pptx
 
+### 3. Food Waste Management Database Development	
+- Developed a PostgreSQL database using Python and SQL to clean, normalize, and analyze large datasets for improved reporting
 
-### 3. Power BI Risk Dashboard
+### 4. Power BI Risk Dashboard
 - Interactive dashboard analyzing risk ratings across vendors
 
 
